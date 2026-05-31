@@ -22,12 +22,13 @@ Welcome to the CodSoft Java Development Internship repository! This repository d
 - Manage students with Student and StudentManagementSystem classes.
 
 - Design a user interface for interaction and data storage.
-How to Use
+  
+## How to Use
 Each task has its own corresponding directory with source code, explanations, and any necessary files. To explore a specific task, navigate to its directory and review the provided materials.
 
-Contributing
+## Contributing
 While this repository primarily serves as a record of my internship tasks, I welcome suggestions, improvements, and collaborations. Feel free to open an issue or submit a pull request if you have any valuable input.
 
-Yash Marane
+Happy Coding!
 
 
