@@ -3,20 +3,20 @@ Welcome to the CodSoft Java Development Internship repository! This repository d
 
 ## Tasks Overview
 ### Task 1: Number Guessing Game
-Generate random numbers, prompt user guesses, and provide feedback.
-Allow multiple rounds and calculate scores.
-Task 2: Student Grade Calculator
-Calculate total marks and average percentage.
-Assign grades and display results.
-Task 3: ATM Interface
-Create an ATM class with withdraw, deposit, and checkBalance methods.
-Implement input validation and connect with user's bank account.
-Task 4: Currency Converter
-Convert currencies using real-time exchange rates.
-Provide a user-friendly interface for currency conversion.
-Task 5: Student Management System
-Manage students with Student and StudentManagementSystem classes.
-Design a user interface for interaction and data storage.
+-Generate random numbers, prompt user guesses, and provide feedback.
+-Allow multiple rounds and calculate scores.
+### Task 2: Student Grade Calculator
+-Calculate total marks and average percentage.
+-Assign grades and display results.
+### Task 3: ATM Interface
+-Create an ATM class with withdraw, deposit, and checkBalance methods.
+-Implement input validation and connect with user's bank account.
+### Task 4: Currency Converter
+-Convert currencies using real-time exchange rates.
+-Provide a user-friendly interface for currency conversion.
+### Task 5: Student Management System
+-Manage students with Student and StudentManagementSystem classes.
+-Design a user interface for interaction and data storage.
 How to Use
 Each task has its own corresponding directory with source code, explanations, and any necessary files. To explore a specific task, navigate to its directory and review the provided materials.
 
